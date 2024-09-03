@@ -1,4 +1,4 @@
-# Note Please:
+# Education Recommendation System
 Before using any other file you have to run the Studend recommendation notebook to get model.pkl and scaler.pkl.
 
 # Dataset Description:
